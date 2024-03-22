@@ -35,6 +35,12 @@
   ```bash
   python app.py
 
+- **Access SwaggerUI:**
+Once the server is running, access the SwaggerUI in a browser via either of the following URLs:
+```bash
+http://localhost:5000
+http://127.0.0.1:5000
+
 ## Summary
 - I propose introducing another method for updating orders. Presently, our only option is to utilize the PATCH call with the order ID, which can pose challenges as it limits updates to available orders only. However, what about scenarios where it's essential to modify orders with pending or sold statuses?
   
