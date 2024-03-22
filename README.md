@@ -1,3 +1,7 @@
+# Testing a Pet Store using Pytest
+
+
+
 ## Summary
 - I propose introducing another method for updating orders. Presently, our only option is to utilize the PATCH call with the order ID, which can pose challenges as it limits updates to available orders only. However, what about scenarios where it's essential to modify orders with pending or sold statuses?
   
@@ -9,8 +13,6 @@
   
 - I have also included screenshots of all the API calls I tested using Postman in the following location of the project: `pytest-api-example/assets/screenshots`.
 
-
-# Testing a Pet Store using Pytest
 
 
 ## Table of Contents
