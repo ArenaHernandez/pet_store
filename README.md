@@ -1,11 +1,11 @@
-# Testing a Pet Store using pytest
+# Testing a Pet Store using Pytest
 
 
 ## Table of Contents
 1. [System Requirements](#system-requirements)
 2. [Setup](#setup)
 3. [Instructions](#instructions)
-5. [License](#license)
+4. [Findings]
 
 ## System Requirements
 - Python 3.x.x
@@ -34,10 +34,10 @@
   In one terminal, start the local server by running:
   ```bash
   python app.py
+  ```bash
+  pip install requests pytest pyhamcrest jsonschema pytest-html flask_restx flask
 
-pip install requests pytest pyhamcrest jsonschema pytest-html flask_restx flask
-
-# Summary - Arena Hernandez
+## Findind=gs
 
 - I propose introducing another method for updating orders. Presently, our only option is to utilize the PATCH call with the order ID, which can pose challenges as it limits updates to available orders only. However, what about scenarios where it's essential to modify orders with pending or sold statuses?
   
