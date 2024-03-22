@@ -1,3 +1,32 @@
+# Project Name
+
+## Introduction
+
+Briefly introduce your project here.
+
+## Table of Contents
+1. [System Requirements](#system-requirements)
+2. [Setup](#setup)
+3. [Recommended VSCode Extensions](#recommended-vscode-extensions)
+4. [Instructions](#instructions)
+5. [License](#license)
+
+## System Requirements
+- Python 3.x.x
+
+## Setup
+1. **Install Visual Studio Code (or any preferred editor):**
+   - [Download Visual Studio Code](https://code.visualstudio.com/download).
+   
+2. **Install Python 3.x.x (latest):**
+   - [Download Python](https://www.python.org/downloads/).
+
+3. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/ArenaHernandez/pet_store.git
+
+pip install requests pytest pyhamcrest jsonschema pytest-html flask_restx flask
+
 # Summary - Arena Hernandez
 
 - I propose introducing another method for updating orders. Presently, our only option is to utilize the PATCH call with the order ID, which can pose challenges as it limits updates to available orders only. However, what about scenarios where it's essential to modify orders with pending or sold statuses?
