@@ -1,8 +1,5 @@
-# Project Name
+# Testing a Pet Store using pytest
 
-## Introduction
-
-Briefly introduce your project here.
 
 ## Table of Contents
 1. [System Requirements](#system-requirements)
