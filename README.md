@@ -34,11 +34,11 @@
   In one terminal, start the local server by running:
   ```bash
   python app.py
+  
   ```bash
   pip install requests pytest pyhamcrest jsonschema pytest-html flask_restx flask
 
-## Findind=gs
-
+## Findindgs
 - I propose introducing another method for updating orders. Presently, our only option is to utilize the PATCH call with the order ID, which can pose challenges as it limits updates to available orders only. However, what about scenarios where it's essential to modify orders with pending or sold statuses?
   
 - I was unable to complete the task of creating a PATCH request in pytest. Despite using a valid order ID, the function I wrote consistently failed. I confirmed the request's functionality using cURL and Postman, both yielding positive results. Given more time, I would have resolved the issue. Meanwhile, I created test cases for the PATCH using Postman, covering all three statuses: pending, sold, and available. This approach allows the test cycle to proceed while I troubleshoot the pytest function. To resolve the issue, I will consult the API documentation, search online, discuss with QA peers, and as a last resort, seek advice from the API developer.
