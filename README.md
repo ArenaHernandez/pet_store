@@ -7,23 +7,36 @@ Briefly introduce your project here.
 ## Table of Contents
 1. [System Requirements](#system-requirements)
 2. [Setup](#setup)
-3. [Recommended VSCode Extensions](#recommended-vscode-extensions)
-4. [Instructions](#instructions)
+3. [Instructions](#instructions)
 5. [License](#license)
 
 ## System Requirements
 - Python 3.x.x
 
 ## Setup
-1. **Install Visual Studio Code (or any preferred editor):**
+- **Install Visual Studio Code (or any preferred editor):**
    - [Download Visual Studio Code](https://code.visualstudio.com/download).
    
-2. **Install Python 3.x.x (latest):**
+- **Install Python 3.x.x (latest):**
    - [Download Python](https://www.python.org/downloads/).
 
-3. **Clone the Repository:**
+- **Clone the Repository:**
    ```bash
    git clone https://github.com/ArenaHernandez/pet_store.git
+
+   ## Recommended VSCode Extensions
+- Python
+- Pylance
+- autopep8
+
+## Instructions
+- **Open Two Terminal Instances:**
+  You'll need two terminal instances, one for running the local server and one for executing pytest.
+  
+- **Start Local Server:**
+  In one terminal, start the local server by running:
+  ```bash
+  python app.py
 
 pip install requests pytest pyhamcrest jsonschema pytest-html flask_restx flask
 
