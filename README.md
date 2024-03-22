@@ -5,7 +5,7 @@
 1. [System Requirements](#system-requirements)
 2. [Setup](#setup)
 3. [Instructions](#instructions)
-4. [Findings]
+4. [Summary]
 
 ## System Requirements
 - Python 3.x.x
