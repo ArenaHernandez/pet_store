@@ -63,4 +63,4 @@ Once the server is running, access the SwaggerUI in a browser via the following 
 In the second terminal, run the following command to execute the tests. Upon completion, a 'report.html' will be generated:
 
 ```bash
-pytest -v --html=report.html
+ pytest -v --html=report.html
