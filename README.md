@@ -21,10 +21,10 @@
    ```bash
    git clone https://github.com/ArenaHernandez/pet_store.git
 
-   ## Recommended VSCode Extensions
-- Python
-- Pylance
-- autopep8
+- **Recommended VSCode Extensions**
+   - Python
+   - Pylance
+   - autopep8
 
 ## Instructions
 - **Open Two Terminal Instances:**
