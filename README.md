@@ -58,3 +58,9 @@ This repository was originally cloned from [automationExamples/pytest-api-exampl
 Once the server is running, access the SwaggerUI in a browser via the following URL:
   ```bash
   http://127.0.0.1:5000
+  
+- **Run Tests:**
+In the second terminal, run the following command to execute the tests. Upon completion, a 'report.html' will be generated:
+
+```bash
+pytest -v --html=report.html
