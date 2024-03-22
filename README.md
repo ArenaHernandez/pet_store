@@ -1,7 +1,7 @@
 # Testing a Pet Store using Pytest
 
 ## Introduction
-This repository was originally cloned from [automationExamples/pytest-api-example](https://github.com/automationExamples/pytest-api-example) as part of my submission for a QA engineer role at Digital Technology Solutions. Below are detailed step-by-step instructions to test the Pet Store API. Additionally, findings and observations for the assigned tasks are itemized on the Summary section of this README file.
+This repository was originally cloned from [automationExamples/pytest-api-example](https://github.com/automationExamples/pytest-api-example) as part of my submission for a IVR Test Analyst role at Digital Technology Solutions. Below are detailed step-by-step instructions to test the Pet Store API. Additionally, findings and observations for the assigned tasks are itemized on the Summary section of this README file.
 
 
 
