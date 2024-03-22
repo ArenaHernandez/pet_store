@@ -6,6 +6,6 @@
   
 - As part of completing the tasks, I fixed the pet's name schema as it was of integer data type instead of string. Additionally, I created a schema for the orders so it can be validated.
   
-- I am including the Postman collection I used to test the project in my submission. The collection is located [here](pytest-api-example/assets/Pytest-API-Example.postman_collection.json).
+- I am including the Postman collection I used to test the project in my submission. The collection is located pytest-api-example/assets/Pytest-API-Example.postman_collection.json.
   
 - I have also included screenshots of all the API calls I tested using Postman in the following location of the project: `pytest-api-example/assets/screenshots`.
