@@ -64,3 +64,6 @@ In the second terminal, run the following command to execute the tests. Upon com
 
   ```bash
   pytest -v --html=report.html
+
+- **View the test report:**
+[View Report](report.html)
